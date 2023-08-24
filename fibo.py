@@ -1,7 +1,4 @@
 
-
-
-
 term = int(input("Enter Term "))
 
 fibo_series =[]
